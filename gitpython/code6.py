@@ -9,6 +9,8 @@ elif a==20:
         print("pls collect the MAZA")
     elif b=="c":
         print("pls collect the COKE")
+    elif b=="d":
+        print("pls collect the COKE")
     else:
         print("sorry not available")
 else:
